@@ -1,12 +1,10 @@
 # Tom Scott Map
-Live version available at http://www.frog23.net/TomScottMap/
 
-
-A unofficial map of the videos created by [Tom Scott](https://www.tomscott.com/). 
-
-See his [Youtube channel](https://www.youtube.com/user/enyay) for the complete list of videos (including those that are not geo-referenceable).
+A unofficial map of the videos created by [Tom Scott](https://www.tomscott.com/). See his [Youtube channel](https://www.youtube.com/user/enyay) for the complete list of videos (including those that are not geo-referenceable).
 
 This map includes the videos from this channel, as well as the ones from the Matt and Tom channel. Also videos from other channels where he was involved can be included as well.
+
+*Live version available at http://www.frog23.net/TomScottMap/*
 
 ## Contribute
 To contribute (i.e. add coodinates to videos), clone this repository, edit data.json and create a pull request.
