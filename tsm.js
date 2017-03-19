@@ -46,7 +46,7 @@ function generateIcons(){
 
 	
 	citationMarker = L.AwesomeMarkers.icon({
-	    icon: 'question',
+	    icon: 'quote-right',
 	    markerColor: 'darkred',
 	    prefix: 'fa'
 	  });
