@@ -2,25 +2,26 @@ var map;
 var defaultMarker, thingsMarker, placesMarker, citationMarker, scienceMarker;
 
 $(document).ready(function(){
-
-	// create a map in the "map" div, set the view to a given place and zoom
-	map = L.map('map').setView([35,15], 2);
-	
-	// add an OpenStreetMap tile layer
-	L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-	attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
-	}).addTo(map);
-	
-	generateIcons();
-	
-	$.getJSON("data.json", function(json) {
-		jQuery.each(json.data, function() {
-				if(this.lat && this.long){
-					var text = '<div class="bubble"><a href="https://www.youtube.com/watch?v='+this.id+'"><b>'+this.title+'</b></a><br /><br /><a href="https://www.youtube.com/watch?v='+this.id+'"><img src="https://img.youtube.com/vi/'+this.id+'/mqdefault.jpg" /></a>'+this.comment+'</div>';
-					var marker = L.marker([this.lat, this.long],{icon:getIcon(this.category)}).bindPopup(text).openPopup().addTo(map);
-				}
-			});
-	});
+	if ( $( "#map" ).length ) {	
+		// create a map in the "map" div, set the view to a given place and zoom
+		map = L.map('map').setView([35,15], 2);
+		
+		// add an OpenStreetMap tile layer
+		L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+		attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+		}).addTo(map);
+		
+		generateIcons();
+		
+		$.getJSON("data.json", function(json) {
+			jQuery.each(json.data, function() {
+					if(this.lat && this.long){
+						var text = '<div class="bubble"><a href="https://www.youtube.com/watch?v='+this.id+'"><b>'+this.title+'</b></a><br /><br /><a href="https://www.youtube.com/watch?v='+this.id+'"><img src="https://img.youtube.com/vi/'+this.id+'/mqdefault.jpg" /></a>'+this.comment+'</div>';
+						var marker = L.marker([this.lat, this.long],{icon:getIcon(this.category)}).bindPopup(text).openPopup().addTo(map);
+					}
+				});
+		});
+	}
 });
 
 function generateIcons(){

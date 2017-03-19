@@ -7,7 +7,7 @@ This map includes the videos from this channel, as well as the ones from the Mat
 *Live version available at http://www.frog23.net/TomScottMap/*
 
 ## Contribute
-To contribute (i.e. add coodinates to videos), clone this repository, edit data.json and create a pull request.
+To contribute (i.e. add coodinates to videos), clone this repository, edit data.json and create a pull request. You can take a look at the [Review Interface](http://www.frog23.net/TomScottMap/review.html) to see which videos aren't geo-referenced yet.
 
 ### General Coodinate Guidlines
 - A video should be mapped to the coodinates the video is about, and not necessarily where the video was filmed. E.g. the video about *[The Image That Can Break Your Brain](https://www.youtube.com/watch?v=Wm8ZoVQ_OJo)* was filmed at a particular theme park, but has nothing to do with this location. The general rule should be: Would I want to know about this video before I go to this particular place, because it will make me look at the place differently?
