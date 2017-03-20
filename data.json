@@ -454,7 +454,7 @@
 {"id":"Fl-TnkmhTOM", "title":"Welcome to Matt and Tom's Park Bench", "lat":"", "long":"", "category":"", "comment":"", "status":"open", "internal_comment":""},
 
 {"comment":"//Videos from other channels"},
-{"id":"bjvIpI-1w84", "title":"Null Island: The Busiest Place That Doesn't Exist", "lat":"0", "long":"0", "category":"Other", "comment":"No those coodinates are not an error.", "status":"mapped", "internal_comment":""}
+{"id":"bjvIpI-1w84", "title":"Null Island: The Busiest Place That Doesn't Exist", "lat":"0", "long":"0", "category":"OtherChannel", "comment":"No those coodinates are not an error.", "status":"mapped", "internal_comment":""}
 
 
 ]
