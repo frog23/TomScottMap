@@ -65,7 +65,7 @@ function generateIcons(){
 	    prefix: 'fa'
 	  });
 	
-	otherMarker = L.AwesomeMarkers.icon({
+	otherChannelMarker = L.AwesomeMarkers.icon({
 	    icon: 'asterisk',
 	    markerColor: 'orange',
 	    prefix: 'fa'
@@ -79,8 +79,8 @@ function getIcon(category){
 		return placesMarker;
 	}else if(category == "Citation"){
 		return citationMarker;
-	}else if(category == "Other"){
-		return otherMarker;
+	}else if(category == "OtherChannel"){
+		return otherChannelMarker;
 	}else if(category == "ParkBench"){
 		return parkMarker;
 	}else if(category == "BuiltForScience"){
