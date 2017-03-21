@@ -9,6 +9,7 @@ $(document).ready(function(){
 		
 
 		var status_count = {}; 
+		var category_count = {}; 
 		
 		$.getJSON("data.json", function(json) {
 			jQuery.each(json.data, function() {
@@ -51,6 +52,12 @@ $(document).ready(function(){
 							status_count[this.status] = 1;
 						}
 						
+						if(category_count[this.category]){
+							category_count[this.category] = category_count[this.category] + 1;
+						}else{
+							category_count[this.category] = 1;
+						}
+						
 						if(this.lat && this.long){
 							// create a map in the "map" div, set the view to a given place and zoom
 							map = L.map('map_'+this.id+"_"+localMapCount).setView([this.lat,this.long], 15);
@@ -66,10 +73,22 @@ $(document).ready(function(){
 					}
 				});
 			
-			var statistics = "<h3>Current Status</h3>";
+			var statistics = "<div class=\"statistics-block\" style=\"width:300px;float:left\"><h3>Current Status</h3>";
 			for (var status in status_count) {
 				statistics = statistics + status + ": " + status_count[status]+"<br />";
 			}
+			statistics = statistics + "</div>";
+			
+			statistics = statistics + "<div class=\"statistics-block\" style=\"width:300px;float:left;margin-bottom:20px;\"><h3>Categories</h3>";
+			for (var category in category_count) {
+				if(category.length == 0){
+					statistics = statistics + "(none)";
+				}else{
+					statistics = statistics + category;
+				}
+				statistics = statistics + ": " + category_count[category]+"<br />";
+			}
+			statistics = statistics + "</div>";
 			$( "#statistics" ).append(statistics);
 		});
 		
