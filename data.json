@@ -1,4 +1,6 @@
 {"data":[
+{"id":"nUB7IflBBrc", "title":"The World's Most Powerful Tidal Current: the Saltstraumen Maelstrom", "lat":"67.23147", "long":"14.61551", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
+{"id":"BSpAWkQLlgM", "title":"Why The YouTube Algorithm Will Always Be A Mystery", "lat":"", "long":"", "category":"Other", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"d3WiRunOsWY", "title":"How The Arecibo Telescope Could Help Save The World", "lat":"18.34420", "long":"-66.75273", "category":"BuiltForScience", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"yy16KFzM4XU", "title":"Why Sci-Fi Alien Planets Look The Same: Hollywood's Thirty-Mile Zone", "lat":"34.07603", "long":"-118.37661", "category":"Things", "comment":"The center of the TMZ (intersection of Beverly Boulevard and North La Cienega Boulevard)", "status":"mapped", "internal_comment":"maybe some of the often used scenes that he mentioned could also be mapped"},
 {"id":"wEjy8iaUPmo", "title":"How To Not Break A Mars Rover", "lat":"34.20235", "long":"-118.16996", "category":"BuiltForScience", "comment":"The precise location of the Mars Yard", "status":"mapped", "internal_comment":""},
@@ -390,6 +392,7 @@
 {"id":"MrppkAIVhH4", "title":"Breakfast: Fortified With Iron", "lat":"", "long":"", "category":"Other", "comment":"", "status":"no coordinates", "internal_comment":""},
 
 {"comment":"//Videos from Matt and Toms Channel"},
+{"id":"_eZ2EPAdzTA", "title":"Soobtitlays", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"ZIuU6jlpC24", "title":"Being Recognised While At Work, And Radio Voices", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"QZAWqk-wrzc", "title":"Behind the Scenes at the Arecibo Radio Telescope", "lat":"18.34682", "long":"-66.75237", "category":"ParkBench", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"TLgplc9A-So", "title":"Tom's Five Minute Theory: History's Repeating Itself, and Doctor Who's Getting Cancelled In 2019", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"no coordinates", "internal_comment":""},
