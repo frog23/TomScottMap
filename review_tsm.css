@@ -1,4 +1,8 @@
 
+.citation, .mapped, .no_coordinates, .parkbench {
+    display: inherit;
+}
+
 .review_map{
 	width:300px;
 	height:240px;

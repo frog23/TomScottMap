@@ -15,7 +15,7 @@ $(document).ready(function(){
 			jQuery.each(json.data, function() {
 					if(this.id){
 						var localMapCount = 0;
-						var row = "<tr>"+
+						var row = "<tr class=\""+this.category.toLowerCase().replace(" ","_")+" "+this.status.toLowerCase().replace(" ","_")+"\">"+
 							"<td><a href=\"https://www.youtube.com/watch?v="+this.id+"\">"+this.id+"</td>"+
 							"<td>"+this.title+"</td>"+
 							"<td><img src=\"https://img.youtube.com/vi/"+this.id+"/default.jpg\" /></td>"+
