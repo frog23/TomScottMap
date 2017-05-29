@@ -1,6 +1,6 @@
 
-.citation, .mapped, .no_coordinates, .parkbench {
-    display: inherit;
+.mapped, .no_coordinates {
+    display: table-row;
 }
 
 .review_map{
