@@ -11,37 +11,46 @@ $(document).ready(function(){
 		var status_count = {}; 
 		var category_count = {}; 
 		
+		$( "#show_all" ).hide();
+			
+		// create a map in the "map" div, set the view to a given place and zoom
+		var map = L.map('review_map');
+		
+		// add an OpenStreetMap tile layer
+		L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+		attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+		}).addTo(map);
+					
+		var first = true;
+		
 		$.getJSON("data.json", function(json) {
 			jQuery.each(json.data, function() {
 					if(this.id){
-						var localMapCount = 0;
-						var row = "<tr class=\""+this.category.toLowerCase().replace(" ","_")+" "+this.status.toLowerCase().replace(" ","_")+"\">"+
-							"<td><a href=\"https://www.youtube.com/watch?v="+this.id+"\">"+this.id+"</td>"+
-							"<td>"+this.title+"</td>"+
+						var localVideoCount = 0;
+						
+						while($.inArray(this.id+"_"+localVideoCount, map_ids) != -1){
+							localVideoCount++;
+						}
+						map_ids.push(this.id+"_"+localVideoCount);
+						
+						var row = "<tr id=\"row_"+this.id+"_"+localVideoCount+"\" class=\""+this.category.toLowerCase().replace(" ","_")+" "+this.status.toLowerCase().replace(" ","_")+"\">"+
+							"<td class=\"text_content\"><a href=\"https://www.youtube.com/watch?v="+this.id+"\">"+this.id+"</td>"+
+							"<td class=\"text_content\">"+this.title+"</td>"+
 							"<td><img src=\"https://img.youtube.com/vi/"+this.id+"/default.jpg\" /></td>"+
-							"<td>"+this.category+"</td>"+
-							"<td>"+this.comment+"</td>"+
-							"<td>"+this.status+"</td>";
+							"<td class=\"text_content\">"+this.category+"</td>"+
+							"<td class=\"text_content\">"+this.comment+"</td>"+
+							"<td class=\"text_content\">"+this.status+"</td>";
 							if(this.lat){
-								row = row + "<td>"+this.lat+"</td>";
+								row = row + "<td class=\"text_content\">"+this.lat+"</td>";
 							}else{
 								row = row + "<td></td>";							
 							}
 							if(this.long){
-								row = row + "<td>"+this.long+"</td>";
+								row = row + "<td class=\"text_content\">"+this.long+"</td>";
 							}else{
 								row = row + "<td></td>";							
 							}
-							if(this.lat && this.long){
-								while($.inArray(this.id+"_"+localMapCount, map_ids) != -1){
-									localMapCount++;
-								}
-								map_ids.push(this.id+"_"+localMapCount);
-								row = row + "<td><div id=\"map_"+this.id+"_"+localMapCount+"\" class=\"review_map\"></div></td>";
-							}else{
-								row = row + "<td></td>";							
-							}
-							row = row + "<td>"+this.internal_comment+"</td>"+
+							row = row + "<td class=\"text_content\">"+this.internal_comment+"</td>"+
 							"</tr>";
 						
 						$( "#table" ).append(row);
@@ -59,16 +68,20 @@ $(document).ready(function(){
 						}
 						
 						if(this.lat && this.long){
-							// create a map in the "map" div, set the view to a given place and zoom
-							map = L.map('map_'+this.id+"_"+localMapCount).setView([this.lat,this.long], 15);
-							
-							// add an OpenStreetMap tile layer
-							L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-							attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
-							}).addTo(map);
-							
 							var text = '<div class="bubble"><a href="https://www.youtube.com/watch?v='+this.id+'"><b>'+this.title+'</b></a><br /><br /><a href="https://www.youtube.com/watch?v='+this.id+'"><img src="https://img.youtube.com/vi/'+this.id+'/mqdefault.jpg" /></a>'+this.comment+'</div>';
 							var marker = L.marker([this.lat, this.long],{icon:getIcon(this.category)}).bindPopup(text).openPopup().addTo(map);
+							if(first){
+								map.setView([this.lat,this.long], 15);
+								$( "#row_"+this.id+"_"+localVideoCount ).addClass( "current" );
+								first = false;
+							}
+							$( "#row_"+this.id+"_"+localVideoCount ).mouseenter({lat: this.lat, long: this.long, id: "row_"+this.id+"_"+localVideoCount}, function(event) {
+								if(!$( "#"+event.data.id ).hasClass( "current" )){
+									map.setView([event.data.lat,event.data.long], 15);
+									$( ".current" ).removeClass( "current" );
+									$( "#"+event.data.id ).addClass( "current" );
+								}
+							});
 						}
 					}
 				});
@@ -90,6 +103,23 @@ $(document).ready(function(){
 			}
 			statistics = statistics + "</div>";
 			$( "#statistics" ).append(statistics);
+			
+			$( "#show_unmapped" ).click(function() {
+				$( ".mapped" ).addClass( "hidden" );
+				$( ".no_coordinates" ).addClass( "hidden" );
+				$( "#show_unmapped" ).hide();
+				$( "#show_all" ).show();
+				$( "#review_map" ).hide();
+			});
+			
+			$( "#show_all" ).click(function() {
+				$( ".hidden" ).removeClass( "hidden" );
+				$( "#show_unmapped" ).show();
+				$( "#show_all" ).hide();
+				$( "#review_map" ).show();
+			});
+			
+			
 		});
 		
 		
