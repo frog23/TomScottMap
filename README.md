@@ -13,6 +13,7 @@ To contribute (i.e. add coodinates to videos), clone this repository, edit data.
 - A video should be mapped to the coodinates the video is about, and not necessarily where the video was filmed. E.g. the video about *[The Image That Can Break Your Brain](https://www.youtube.com/watch?v=Wm8ZoVQ_OJo)* was filmed at a particular theme park, but has nothing to do with this location. The general rule should be: Would I want to know about this video before I go to this particular place, because it will make me look at the place differently?
 - A video can have more than one location attached to it. Just duplicate the line for the second or third marker. There should however not be too many markers per video, e.g. adding the video about *[The Man Who Invented, Then Hated, Shopping Malls](https://www.youtube.com/watch?v=4F7WCutpsJw)* to every shopping mall around is not reasonable. 
 - Videos from other channels that are not from Toms Channel or Matt & Toms Channel can be added if they are related to Tom.
+- When two videos are from the same location, (usually one video from the main channel and one behind-the-scenes look as a Park Bench video, e.g. for the Arecibo Telescope), the markers should have slightly different coordinates, so they appear as two different markers on the map, when the user zooms in enough. 
 
 ### data.json Fields
 - *id*: the youtube id of the video
