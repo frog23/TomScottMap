@@ -372,7 +372,7 @@
 {"id":"aAQLIvRWuZY", "title":"The Battle of the Beer № 2 - The Technical Difficulties, Show 2", "lat":"", "long":"", "category":"Other", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"fWeUSdjvksE", "title":"Monument Morse - The Technical Difficulties, Show 2", "lat":"53.95583", "long":"-1.08002", "category":"Other", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"4teSu_JDc0w", "title":"The Technical Difficulties: Show 2", "lat":"", "long":"", "category":"Other", "comment":"", "status":"no coordinates", "internal_comment":""},
-{"id":"bl9WBQ2Zkhk", "title":"Date This Man - The Technical Difficulties, Show 1", "lat":"", "long":"", "category":"Other", "comment":"", "status":"no coordinates", "internal_comment":""},
+{"id":"bl9WBQ2Zkhk", "title":"Date This Man - The Technical Difficulties, Show 1", "lat":"51.481870", "long":"3.176369", "category":"Other", "comment":"Location represents a possible location for the video display board features at the end.", "status":"mapped", "internal_comment":"Location represents a best guess based on streetview information from background shops and the presense of such a screen"},
 {"id":"t9oi2fx_tdA", "title":"The Battle of the Beer № 1 - The Technical Difficulties, Show 1", "lat":"", "long":"", "category":"Other", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"2dIL2jNSZ8w", "title":"Google Street View Race - The Technical Difficulties, Show 1", "lat":"37.80746", "long":"-122.42177", "category":"Other", "comment":"The end of Jefferson Street in Fisherman's Wharf, the start of the race.", "status":"mapped", "internal_comment":""},
 {"id":"2dIL2jNSZ8w", "title":"Google Street View Race - The Technical Difficulties, Show 1", "lat":"37.80237", "long":"-122.40584", "category":"Other", "comment":"Coit Tower on top of Telegraph Hill in San Francisco, the goal of the race.", "status":"mapped", "internal_comment":""},
@@ -497,6 +497,7 @@
 {"id":"WZskjLq040I", "title":"Tom Scott vs Irving Finkel: The Royal Game of Ur", "lat":"51.5192", "long":"-0.1280", "category":"OtherChannel", "comment":"The British Museum where the original game is stored (and sometimes on display).", "status":"mapped", "internal_comment":""},
 {"id":"bjvIpI-1w84", "title":"Null Island: The Busiest Place That Doesn't Exist", "lat":"0", "long":"0", "category":"OtherChannel", "comment":"No those coordinates are not an error.", "status":"mapped", "internal_comment":""},
 {"id":"8Ovg0FyWm9k", "title":"Discover the biggest painting of the Louvre Museum", "lat":"48.85998", "long":"2.33619", "category":"OtherChannel", "comment":"The coordinates of the painting itself.", "status":"mapped", "internal_comment":""}
+{"id":"yPyZdQoUTNM", "title":"The Amstrad PC 1512 Computer with Tom Scott", "lat":"52.207902", "long":"0.148996", "category":"OtherChannel", "comment":"", "status":"mapped", "internal_comment":""}  
 
 ]
 }
