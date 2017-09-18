@@ -1,4 +1,6 @@
 {"data":[
+{"id":"-DGXHMOhXAw", "title":"Rotary Jails and Accidental Amputations", "lat":"40.04389", "long":"-86.90181", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
+{"id":"JsTptu56GM8", "title":"How Computers Compress Text: Huffman Coding and Huffman Trees", "lat":"", "long":"", "category":"TheBasics", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"PB7HT3BZLzM", "title":"A Nuclear Waste Dump You Can Walk On: Weldon Spring, Missouri", "lat":"38.69813", "long":"-90.72831", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"jvJzi0BXcGI", "title":"The US Government's $983 Freeze-Dried Urine", "lat":"", "long":"", "category":"Things", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"DTRb6G9c9wU", "title":"Inside The Giant American Freezer Filled With Polar Ice", "lat":"39.71288", "long":"-105.12452", "category":"BuiltForScience", "comment":"", "status":"mapped", "internal_comment":""},
@@ -419,6 +421,7 @@
 {"id":"MrppkAIVhH4", "title":"Breakfast: Fortified With Iron", "lat":"", "long":"", "category":"Other", "comment":"", "status":"no coordinates", "internal_comment":""},
 
 {"comment":"//Videos from Matt and Toms Channel"},
+{"id":"xHPsUmq5k74", "title":"Public Speaking, Broadcast Lag, and How To Get Used To Your Own Face", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"no coodinates", "internal_comment":""},
 {"id":"cGqEBvlmFAQ", "title":"You Successfully Stalked Us, Please Don't Do It Again.", "lat":"38.1230", "long":"-89.7017", "category":"ParkBench", "comment":"mapped close to but not on the coordinates of the original video, so the markers don't overlap", "status":"mapped", "internal_comment":""},
 {"id":"vXwb_7DdZeQ", "title":"We Shred Your Comments, Live", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"30iLtOlfSh8", "title":"Matt and Tom's 100,000 Subscriber Eclipse", "lat":"37.813363", "long":"-89.736213", "category":"ParkBench", "comment":"", "status":"mapped", "internal_comment":"the precise location of this video will be hopefully revieled soon."},
