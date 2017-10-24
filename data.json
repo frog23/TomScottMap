@@ -1,4 +1,7 @@
 {"data":[
+{"id":"YQ6vWW9BEKU", "title":"What Is Sea Level, Anyway?", "lat":"33.12657", "long":"-115.51659", "category":"Things", "comment":"", "status":"mapped", "internal_comment":""},
+{"id":"Ef93WmlEho0", "title":"Why California's Musical Road Sounds Terrible", "lat":"34.73318", "long":"-118.19432", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
+{"id":"-QSsh6oCE7k", "title":"I'm Looking For Guest Videos, and Other Plans For 2018", "lat":"", "long":"", "category":"Other", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"b6utGZQ9Sks", "title":"The Reaction Ferries of Basel: What Have We Missed?", "lat":"47.55524", "long":"7.60262", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"cfSIC8jwbQs", "title":"The Centuries-Old Debt That's Still Paying Interest", "lat":"51.9698", "long":"5.1800", "category":"Things", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"-DGXHMOhXAw", "title":"Rotary Jails and Accidental Amputations", "lat":"40.04389", "long":"-86.90181", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
@@ -423,6 +426,8 @@
 {"id":"MrppkAIVhH4", "title":"Breakfast: Fortified With Iron", "lat":"", "long":"", "category":"Other", "comment":"", "status":"no coordinates", "internal_comment":""},
 
 {"comment":"//Videos from Matt and Toms Channel"},
+{"id":"qHR3PjgEuAs", "title":"Funny TV, Kids' Cartoons, and Tom's Thoughts on the New Star Trek", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"no coordinates", "internal_comment":""},
+{"id":"J6v4_5a6XNs", "title":"Matt's Dream Jobs and Grown-Up Work Experience", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"SpNlp6AtTOE", "title":"How and Why We Shredded Your Comments", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"SborjlpiYtQ", "title":"Rejects from Tom's Ideas Board: The Early Years", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"XTgNVVFxXBE", "title":"Unseen Citation Needed Warmup Footage", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"no coordinates", "internal_comment":""},
