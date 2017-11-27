@@ -1,4 +1,9 @@
 {"data":[
+{"id":"w2A8q3XIhu0", "title":"Why Hold Music Sounds Worse Now", "lat":"52.05591", "long":"-0.80481", "category":"Things", "comment":"", "status":"mapped", "internal_comment":""},
+{"id":"nrU8Kh6Mf7o", "title":"Charles Blondin and the Stolen Point: Citation Needed 7x01", "lat":"", "long":"", "category":"Citation", "comment":"", "status":"no coordinates", "internal_comment":""},
+{"id":"zOgle88sKro", "title":"The German Town That's Literally Breaking Apart", "lat":"47.88158", "long":"7.73155", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
+{"id":"_-aDHxoblr4", "title":"Is It Dangerous To Talk To A Camera While Driving?", "lat":"41.70909", "long":"-91.59926", "category":"BuiltForScience", "comment":"", "status":"mapped", "internal_comment":""},
+{"id":"1cUUfMeOijg", "title":"The Lava Lamps That Help Keep The Internet Secure", "lat":"37.78035", "long":"-122.39056", "category":"Places", "comment":"The San Francisco Office of Cloudflare. You will probably not get in there and see the lava lamps yourself.", "status":"mapped", "internal_comment":""},
 {"id":"4JAjIjXbe3Y", "title":"The Story of Salvation Mountain", "lat":"33.2542", "long":"-115.4725552", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"YQ6vWW9BEKU", "title":"What Is Sea Level, Anyway?", "lat":"33.12657", "long":"-115.51659", "category":"Things", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"Ef93WmlEho0", "title":"Why California's Musical Road Sounds Terrible", "lat":"34.73318", "long":"-118.19432", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
@@ -427,6 +432,10 @@
 {"id":"MrppkAIVhH4", "title":"Breakfast: Fortified With Iron", "lat":"", "long":"", "category":"Other", "comment":"", "status":"no coordinates", "internal_comment":""},
 
 {"comment":"//Videos from Matt and Toms Channel"},
+{"id":"yhaigO_Vdzg", "title":"Fifteen Minutes of Old School Video Game Nostalgia", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"no coordinates", "internal_comment":""},
+{"id":"M9vufh4uQ7M", "title":"Letters and Mottos and Eagle Scouts", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"no coordinates", "internal_comment":""},
+{"id":"LeoklwonIMQ", "title":"Matt and Tom's Controversial Opinions", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"no coordinates", "internal_comment":""},
+{"id":"QR_8ck8veU0", "title":"High Winds and Helicopters: Tom's Failed Video", "lat":"36.08199", "long":"-115.17277", "category":"ParkBench", "comment":"The Welcome to Fabulous Las Vegas Sign", "status":"mapped", "internal_comment":""},
 {"id":"-VA4SxVngFc", "title":"Matt and Tom Visit Bramble Bank", "lat":"50.7923", "long":"-1.2898", "category":"ParkBench", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"qHR3PjgEuAs", "title":"Funny TV, Kids' Cartoons, and Tom's Thoughts on the New Star Trek", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"J6v4_5a6XNs", "title":"Matt's Dream Jobs and Grown-Up Work Experience", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"no coordinates", "internal_comment":""},
