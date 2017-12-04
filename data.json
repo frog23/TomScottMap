@@ -1,4 +1,6 @@
 {"data":[
+{"id":"YF6xzqOfCD8", "title":"Batman and a Village of Fools: Gotham, England", "lat":"52.86830", "long":"-1.20608", "category":"Things", "comment":"The location of the statue/pillar.", "status":"mapped", "internal_comment":""},
+{"id":"cDboEgjZjAE", "title":"The Sark Football Team and Hovercraft Enthusiasm: Citation Needed 7x02", "lat":"49.43176", "long":"-2.35554", "category":"Citation", "comment":"Just the center of Sark, not the football field itself.", "status":"mapped", "internal_comment":""},
 {"id":"w2A8q3XIhu0", "title":"Why Hold Music Sounds Worse Now", "lat":"52.05591", "long":"-0.80481", "category":"Things", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"nrU8Kh6Mf7o", "title":"Charles Blondin and the Stolen Point: Citation Needed 7x01", "lat":"", "long":"", "category":"Citation", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"zOgle88sKro", "title":"The German Town That's Literally Breaking Apart", "lat":"47.88158", "long":"7.73155", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
@@ -432,6 +434,7 @@
 {"id":"MrppkAIVhH4", "title":"Breakfast: Fortified With Iron", "lat":"", "long":"", "category":"Other", "comment":"", "status":"no coordinates", "internal_comment":""},
 
 {"comment":"//Videos from Matt and Toms Channel"},
+{"id":"PcNcJBR7aLc", "title":"Hovercraft Adventures, Behind The Scenes", "lat":"52.20325", "long":"-0.27853", "category":"ParkBench", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"yhaigO_Vdzg", "title":"Fifteen Minutes of Old School Video Game Nostalgia", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"M9vufh4uQ7M", "title":"Letters and Mottos and Eagle Scouts", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"LeoklwonIMQ", "title":"Matt and Tom's Controversial Opinions", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"no coordinates", "internal_comment":""},
@@ -548,8 +551,11 @@
 {"comment":"//Videos from other channels"},
 {"id":"WZskjLq040I", "title":"Tom Scott vs Irving Finkel: The Royal Game of Ur", "lat":"51.5192", "long":"-0.1280", "category":"OtherChannel", "comment":"The British Museum where the original game is stored (and sometimes on display).", "status":"mapped", "internal_comment":""},
 {"id":"bjvIpI-1w84", "title":"Null Island: The Busiest Place That Doesn't Exist", "lat":"0", "long":"0", "category":"OtherChannel", "comment":"No those coordinates are not an error.", "status":"mapped", "internal_comment":""},
-{"id":"8Ovg0FyWm9k", "title":"Discover the biggest painting of the Louvre Museum", "lat":"48.85998", "long":"2.33619", "category":"OtherChannel", "comment":"The coordinates of the painting itself.", "status":"mapped", "internal_comment":""},
-{"id":"yPyZdQoUTNM", "title":"The Amstrad PC 1512 Computer with Tom Scott", "lat":"52.207902", "long":"0.148996", "category":"OtherChannel", "comment":"", "status":"mapped", "internal_comment":""}  
+{"id":"8Ovg0FyWm9k", "title":"Discover the biggest painting of the Louvre Museum", "lat":"48.8599648", "long":"2.33527", "category":"OtherChannel", "comment":"The coordinates of the painting itself.", "status":"mapped", "internal_comment":""},
+{"id":"ppZPoIci5Tc", "title":"The Consecration of the Emperor Napoleon and the Coronation of Empress Josephine", "lat":"48.8602988", "long":"2.3360437", "category":"OtherChannel", "comment":"The coordinates of the painting itself.", "status":"mapped", "internal_comment":""},
+{"id":"euFIg6YjUPE", "title":"How tiny bees are making big waves in science... #PreviouslyOnEarth", "lat":"51.49602", "long":"-0.17640", "category":"OtherChannel", "comment":"", "status":"mapped", "internal_comment":""},
+{"id":"ES-BCIvc1gk", "title":"The hidden symbolism of Renaissance staircases", "lat":"43.76845", "long":"11.25581", "category":"OtherChannel", "comment":"", "status":"mapped", "internal_comment":""},
+{"id":"yPyZdQoUTNM", "title":"The Amstrad PC 1512 Computer with Tom Scott", "lat":"52.207902", "long":"0.148996", "category":"OtherChannel", "comment":"", "status":"mapped", "internal_comment":""}
 
 ]
 }
