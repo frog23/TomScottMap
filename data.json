@@ -1,4 +1,8 @@
 {"data":[
+{"id":"Q3KT-OOg9y0", "title":"The Flip Flap Railroad and Marshmallow Bearings: Citation Needed 7x04", "lat":"40.8694", "long":"-75.7497", "category":"Citation", "comment":"Location of the former Mauch Chunk Switchback Railway", "status":"mapped", "internal_comment":""},
+{"id":"Q3KT-OOg9y0", "title":"The Flip Flap Railroad and Marshmallow Bearings: Citation Needed 7x04", "lat":"40.57536", "long":"-73.97966", "category":"Citation", "comment":"Location of the former Sea Lion Park (now Conny Island) in which the Flip Flap Railway (wooden looping roller coaster) was located.", "status":"mapped", "internal_comment":""},
+{"id":"Q3KT-OOg9y0", "title":"The Flip Flap Railroad and Marshmallow Bearings: Citation Needed 7x04", "lat":"41.18987", "long":"-74.50712", "category":"Citation", "comment":"Location of the former Action Park with the Cannonball Loop water slide. The slide itself has been dismantled.", "status":"mapped", "internal_comment":""},
+{"id":"FO_Ox_dH0M8", "title":"How Zero-G Planes Work", "lat":"", "long":"", "category":"", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"H2J1vOpzOI0", "title":"Turra Coo and Four-Legged Juggling: Citation Needed 7x03", "lat":"57.53731", "long":"-2.46056", "category":"Citation", "comment":"The location of the Turra  Coo statue.", "status":"mapped", "internal_comment":""},
 {"id":"k27hqCKhD_c", "title":"Monkey Shipwrecks and Football Mascots: Citation Needed 7x03 Bonus Material", "lat":"54.6890", "long":"-1.2127", "category":"Citation", "comment":"The Victoria Park Stadium where the Hartlepool Football Club is playing it's home games.", "status":"mapped", "internal_comment":""},
 {"id":"YF6xzqOfCD8", "title":"Batman and a Village of Fools: Gotham, England", "lat":"52.86830", "long":"-1.20608", "category":"Things", "comment":"The location of the statue/pillar.", "status":"mapped", "internal_comment":""},
@@ -436,6 +440,7 @@
 {"id":"MrppkAIVhH4", "title":"Breakfast: Fortified With Iron", "lat":"", "long":"", "category":"Other", "comment":"", "status":"no coordinates", "internal_comment":""},
 
 {"comment":"//Videos from Matt and Toms Channel"},
+{"id":"FnUmcA7E_tw", "title":"Cramped Super 8 with Sammy Paul", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"PcNcJBR7aLc", "title":"Hovercraft Adventures, Behind The Scenes", "lat":"52.20325", "long":"-0.27853", "category":"ParkBench", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"yhaigO_Vdzg", "title":"Fifteen Minutes of Old School Video Game Nostalgia", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"M9vufh4uQ7M", "title":"Letters and Mottos and Eagle Scouts", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"no coordinates", "internal_comment":""},
