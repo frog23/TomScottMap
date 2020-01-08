@@ -7,8 +7,8 @@ $(document).ready(function(){
 		map = L.map('map').setView([35,15], 2);
 		
 		// add an OpenStreetMap tile layer
-		L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-		attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+		attribution: '&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
 		}).addTo(map);
 		
 		generateIcons();
