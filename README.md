@@ -4,7 +4,7 @@ A unofficial map of the videos created by [Tom Scott](https://www.tomscott.com/)
 
 This map includes the videos from this channel, as well as the ones from the Matt and Tom channel. Also videos from other channels where he was involved can be included as well.
 
-*Live version available at http://www.frog23.net/TomScottMap/*
+*Live version available at https://www.frog23.net/TomScottMap/*
 
 ## Contribute
 To contribute (i.e. add coodinates to videos), clone this repository, edit data.json and create a pull request. You can take a look at the [Review Interface](http://www.frog23.net/TomScottMap/review.html) to see which videos aren't geo-referenced yet.
