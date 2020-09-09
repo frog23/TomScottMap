@@ -776,7 +776,10 @@
 {"id":"ppZPoIci5Tc", "title":"The Consecration of the Emperor Napoleon and the Coronation of Empress Josephine", "lat":"48.8602988", "long":"2.3360437", "category":"OtherChannel", "comment":"The coordinates of the painting itself.", "status":"mapped", "internal_comment":""},
 {"id":"euFIg6YjUPE", "title":"How tiny bees are making big waves in science... #PreviouslyOnEarth", "lat":"51.49602", "long":"-0.17640", "category":"OtherChannel", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"ES-BCIvc1gk", "title":"The hidden symbolism of Renaissance staircases", "lat":"43.76845", "long":"11.25581", "category":"OtherChannel", "comment":"", "status":"mapped", "internal_comment":""},
-{"id":"yPyZdQoUTNM", "title":"The Amstrad PC 1512 Computer with Tom Scott", "lat":"52.207902", "long":"0.148996", "category":"OtherChannel", "comment":"", "status":"mapped", "internal_comment":""}
+{"id":"yPyZdQoUTNM", "title":"The Amstrad PC 1512 Computer with Tom Scott", "lat":"52.207902", "long":"0.148996", "category":"OtherChannel", "comment":"", "status":"mapped", "internal_comment":""},
+{"id":"VDC_RCh0ws8", "title":"A Brief History of Radar", "lat":"53.32482", "long":"-0.11429", "category":"OtherChannel", "comment":"Stenigot Tower,", "status":"mapped", "internal_comment":""},
+{"id":"VDC_RCh0ws8", "title":"A Brief History of Radar", "lat":"55.4181043", "long":"-1.7683942", "category":"OtherChannel", "comment":"RRH Brizlee Wood", "status":"mapped", "internal_comment":""},
+{"id":"VDC_RCh0ws8", "title":"A Brief History of Radar", "lat":"54.36178", "long":"-0.66999", "category":"OtherChannel", "comment":"RAF Fylingdales", "status":"mapped", "internal_comment":""}
 
 ]
 }
