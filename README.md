@@ -22,7 +22,7 @@ To contribute (i.e. add coodinates to videos), clone this repository, edit data.
 - *long*: the longitude component of the coodinates
 - *category*: the category is used to desplay the corresponding icon. Please use any of the following categories: "**Things**" for "Things you might not know", "**Places**" for "Amazing Places", "**BuildForScience**" for "Build for Science", "**Citation**" for "Citation Needed", "**ParkBench**" for the Park Bench Videos from the Matt and Tom channel, "**Other**" for any other videos on Toms channel, and "**OtherChannel**" for videos from Tom Scott created for other channels. Suggestions for additional categories are welcome.
 - *comment*: A comment about the coodinates or the video that will be publicly displayed underneith the video thumbnail in the location bubble.
-- *status*: A flag indicating the status of the video. Please use "**open**" if the coordinates have not been assesed yet, "**mappable**" if the video can be mapped, but the coordinates have not been added yet, "**mapped**" if the coordinates have been added, "**no coodinates**" if the video can not be geo referenced. 
+- *status*: A flag indicating the status of the video. Please use "**open**" if the coordinates have not been assesed yet, "**mappable**" if the video can be mapped, but the coordinates have not been added yet, "**mapped**" if the coordinates have been added, "**no coordinates**" if the video can not be geo referenced. 
 - *internal_comment"*: an internal comment that will not be published but that might help other people who are trying to find coodinates to the videos, e.g. "Those are the coordinates for the city only, somebody else might want to look up the correct building."
 
 
