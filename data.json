@@ -784,7 +784,8 @@
 {"id":"yPyZdQoUTNM", "title":"The Amstrad PC 1512 Computer with Tom Scott", "lat":"52.207902", "long":"0.148996", "category":"OtherChannel", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"VDC_RCh0ws8", "title":"A Brief History of Radar", "lat":"53.32482", "long":"-0.11429", "category":"OtherChannel", "comment":"Stenigot Tower,", "status":"mapped", "internal_comment":""},
 {"id":"VDC_RCh0ws8", "title":"A Brief History of Radar", "lat":"55.4181043", "long":"-1.7683942", "category":"OtherChannel", "comment":"RRH Brizlee Wood", "status":"mapped", "internal_comment":""},
-{"id":"VDC_RCh0ws8", "title":"A Brief History of Radar", "lat":"54.36178", "long":"-0.66999", "category":"OtherChannel", "comment":"RAF Fylingdales", "status":"mapped", "internal_comment":""}
+{"id":"VDC_RCh0ws8", "title":"A Brief History of Radar", "lat":"54.36178", "long":"-0.66999", "category":"OtherChannel", "comment":"RAF Fylingdales", "status":"mapped", "internal_comment":""},
+{"id":"MCuCBt24hAk", "title":"The Miscommunication Game (Ft. 15 other channels!)", "lat":"", "long":"", "category":"OtherChannel", "comment":"Tom's section begins at 06:03, and he has some sections in the recations segment", "status":"no coordinates", "internal_comment":""}
 
 ]
 }
