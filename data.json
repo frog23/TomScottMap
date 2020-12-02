@@ -1,9 +1,9 @@
 {"data":[
 {"id":"mM7C_Pw7OL8", "title":"Walking The Most Dangerous Path In Britain", "lat":"51.5640", "long":"0.8836", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
-{"id":"OFRjZtYs3wY", "title":"Why The Web Is Such A Mess", "lat":"", "long":"", "category":"TheBasics", "comment":"", "status":"open", "internal_comment":""},
-{"id":"IsWJKyR664s", "title":"I Almost Learned To Fly A Jetpack", "lat":"", "long":"", "category":"Other", "comment":"", "status":"open", "internal_comment":""},
-{"id":"m__OZ3ZsO4Y", "title":"Five Things You Can't Do On British Television", "lat":"", "long":"", "category":"Things", "comment":"", "status":"open", "internal_comment":""},
-{"id":"LseK5gp66u8", "title":"The Pumps That Must Run Forever, Or Part Of Germany Floods", "lat":"51.51937", "long":"6.98982", "category":"Places", "comment":"", "status":"open", "internal_comment":""},
+{"id":"OFRjZtYs3wY", "title":"Why The Web Is Such A Mess", "lat":"", "long":"", "category":"TheBasics", "comment":"", "status":"no coordinates", "internal_comment":""},
+{"id":"IsWJKyR664s", "title":"I Almost Learned To Fly A Jetpack", "lat":"", "long":"", "category":"Other", "comment":"", "status":"no coordinates", "internal_comment":""},
+{"id":"m__OZ3ZsO4Y", "title":"Five Things You Can't Do On British Television", "lat":"", "long":"", "category":"Things", "comment":"", "status":"no coordinates", "internal_comment":""},
+{"id":"LseK5gp66u8", "title":"The Pumps That Must Run Forever, Or Part Of Germany Floods", "lat":"51.51937", "long":"6.98982", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"ZLF7yife8YE", "title":"My Unlicensed Hovercraft Bar Is Technically Legal", "lat":"", "long":"", "category":"Things", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"N1AL2EMvVy0", "title":"It’s pronounced GIF.", "lat":"", "long":"", "category":"Linguistics", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"5te73hfCpuU", "title":"The Theme Park Inside An Old Nuclear Power Plant", "lat":"51.7633", "long":"6.3288", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
