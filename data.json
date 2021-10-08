@@ -1,4 +1,13 @@
 {"data":[
+{"id":"A2g4u9F9i90", "title":"I thought the Schmid Peoplemover was impossible", "lat":"48.72066", "long":"9.38195", "category":"Places", "comment":"The Schmid Peoplemover featured in the video in Altbach, Germany", "status":"mapped", "internal_comment":""},
+{"id":"A2g4u9F9i90", "title":"I thought the Schmid Peoplemover was impossible", "lat":"52.49363", "long":"13.49828", "category":"Places", "comment":"The other still functional Schmid Peoplemover in Berlin Rummelsburg, that was not featured in the video", "status":"mapped", "internal_comment":""},
+{"id":"A2g4u9F9i90", "title":"I thought the Schmid Peoplemover was impossible", "lat":"48.47775", "long":"9.22861", "category":"Places", "comment":"The third Schmid Peoplemover that is now defunct in Pfullingen, Germany", "status":"mapped", "internal_comment":""},
+{"id":"6TLcaJdsRr0", "title":"The world's most useful model railway", "lat":"49.88008", "long":"8.62561", "category":"Places", "comment":"Eisenbahnbetriebsfeld Darmstadt", "status":"mapped", "internal_comment":""},
+{"id":"10Y-gWNJ2Sw", "title":"The public toll road with no speed limit", "lat":"50.3393", "long":"6.9482", "category":"Places", "comment":"Start of the Nordschleifen (north loop)", "status":"mapped", "internal_comment":""},
+{"id":"KVXVNX4Crh4", "title":"Three strange river crossings", "lat":"53.45915", "long":"-2.39508", "category":"Places", "comment":"the Hulmes Ferry,", "status":"mapped", "internal_comment":""},
+{"id":"KVXVNX4Crh4", "title":"Three strange river crossings", "lat":"53.38534", "long":"-2.52856", "category":"Places", "comment":"the Thelwall Ferry", "status":"mapped", "internal_comment":""},
+{"id":"KVXVNX4Crh4", "title":"Three strange river crossings", "lat":"53.40751", "long":"-2.45901", "category":"Places", "comment":"the Warburton Toll Bridge", "status":"mapped", "internal_comment":""},
+{"id":"vdvIY0CJaXw", "title":"Why this observatory fires lasers at satellites", "lat":"50.8673796", "long":"0.3361487", "category":"BuiltForScience", "comment":"NERC's Space Geodesy Facility", "status":"mapped", "internal_comment":""},
 {"id":"dzYP01CPC6E", "title":"I took the world's shortest flight. It was underwhelming.", "lat":"59.351264", "long":"-2.899113", "category":"Places", "comment":"Papa Westray airport, the airport Tom sets off from.", "status":"mapped", "internal_comment":""},
 {"id":"8UmsfXWzvEA", "title":"The Islands With Too Much Power", "lat":"59.086455", "long":"-3.074773", "category":"Things", "comment":"Approximate location Tom filmed his monologue", "status":"mapped", "internal_comment":""},
 {"id":"hUyvk_hdMNs", "title":"I helped cover a 5,000-year-old monument with worn-out tires", "lat":"58.997060", "long":"-3.214854", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
@@ -807,6 +816,12 @@
 {"id":"dvr0LzEb0ww", "title":"Mevea Simulation and a Finnish Steelworks: Behind The Scenes", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"open", "internal_comment":""},
 {"id":"4uC3S9m1hJs", "title":"The End of Emojli: The Post-Mortem", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"open", "internal_comment":""},
 {"id":"Fl-TnkmhTOM", "title":"Welcome to Matt and Tom's Park Bench", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"open", "internal_comment":""},
+
+{"comment":"//Videos from Tom's second channel: Tom Scott plus"},
+{"id":"9KOZUw_Ah8w", "title":"I tried caving and found out I'm very bad at caving", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"no coordinates", "internal_comment":""},
+{"id":"rK2locyo-Pc", "title":"non-extreme, entirely normal $0,000 game of Skull", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"no coordinates", "internal_comment":""},
+{"id":"N9OKVCt8dOM", "title":"I tried aerobatics with Jay Foreman and neither of us could handle it | Tom Scott plus", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"no coordinates", "internal_comment":""},
+{"id":"d9zHO6Lh2zY", "title":"Tom Scott plus: the new second channel", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"no coordinates", "internal_comment":""},
 
 {"comment":"//Videos from other channels"},
 {"id":"WZskjLq040I", "title":"Tom Scott vs Irving Finkel: The Royal Game of Ur", "lat":"51.5192", "long":"-0.1280", "category":"OtherChannel", "comment":"The British Museum where the original game is stored (and sometimes on display).", "status":"mapped", "internal_comment":""},
