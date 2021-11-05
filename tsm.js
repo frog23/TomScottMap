@@ -1,5 +1,5 @@
 var map;
-var defaultMarker, thingsMarker, placesMarker, citationMarker, scienceMarker;
+var defaultMarker, thingsMarker, placesMarker, citationMarker, scienceMarker, plusMarker, otherChannelMarker;
 
 $(document).ready(function(){
 	if ( $( "#map" ).length ) {	
@@ -65,6 +65,12 @@ function generateIcons(){
 	    prefix: 'fa'
 	  });
 	
+	plusMarker = L.AwesomeMarkers.icon({
+	    icon: 'plus',
+	    markerColor: 'darkpurple',
+	    prefix: 'fa'
+	  });
+	
 	otherChannelMarker = L.AwesomeMarkers.icon({
 	    icon: 'asterisk',
 	    markerColor: 'orange',
@@ -85,6 +91,8 @@ function getIcon(category){
 		return parkMarker;
 	}else if(category == "BuiltForScience"){
 		return scienceMarker;
+	}else if(category == "Plus"){
+		return plusMarker;
 	}else{
 		return defaultMarker;
 	}
