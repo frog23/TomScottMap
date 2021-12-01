@@ -1,4 +1,8 @@
 {"data":[
+{"id":"xym2R6_Qd7c", "title":"The town where holding fireworks over your head is a tradition", "lat":"51.12796", "long":"-3.00572", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
+{"id":"zZkusjDFlS0", "title":"The tunnel where people pay to inhale radioactive gas", "lat":"49.83971", "long":"7.85137", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
+{"id":"NL5sRCRa7AE", "title":"This tiny railroad across the sea has an important job", "lat":"54.5543", "long":"8.8464", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
+{"id":"o-oVXYkBwgw", "title":"Why this \"falling rocks\" sign is more important than most", "lat":"46.67048", "long":"9.59331", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"PkW9wx7Kbws", "title":"An actual, real-world use for robot dogs", "lat":"46.93837", "long":"10.06002", "category":"Things", "comment":"The entrance to the plant shown in the video (Note: this is not open to the public, do not visit!)", "status":"mapped", "internal_comment":""},
 {"id":"_3P_S7pL7Yg", "title":"The highway where trucks work like electric trains", "lat":"53.8291", "long":"10.5497", "category":"Things", "comment":"The eHighway test area between Reinfeld and Lübeck", "status":"mapped", "internal_comment":""},
 {"id":"2h1s6S4kotE", "title":"The shooting range where you fire over a busy road", "lat":"46.67036", "long":"7.60909", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
@@ -822,6 +826,8 @@
 {"id":"Fl-TnkmhTOM", "title":"Welcome to Matt and Tom's Park Bench", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"open", "internal_comment":""},
 
 {"comment":"//Videos from Tom's second channel: Tom Scott plus"},
+{"id":"P7GKK3liv8M", "title":"I can't ride a bike. How fast can Mike Boyd teach me?", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"no coordinates", "internal_comment":""},
+{"id":"TaFTKRjMY68", "title":"I regret being the host of this | Tom Scott, Matt Parker, dodie, and Sophie Ward play No Thanks", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"ono coordinatespen", "internal_comment":""},
 {"id":"e2HUg144liM", "title":"I tried blacksmithing and only got slightly burned", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"Z-iNAyu-ejo", "title":"I don't like coffee. Can James Hoffmann change that?", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"9KOZUw_Ah8w", "title":"I tried caving and found out I'm very bad at caving", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"no coordinates", "internal_comment":""},
