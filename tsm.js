@@ -67,7 +67,7 @@ function generateIcons(){
 	
 	plusMarker = L.AwesomeMarkers.icon({
 	    icon: 'plus',
-	    markerColor: 'darkpurple',
+	    markerColor: 'darkblue',
 	    prefix: 'fa'
 	  });
 	
