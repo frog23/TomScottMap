@@ -31,7 +31,9 @@ button{
 	margin-bottom:20px;
 }
 
-.open td.text_status,
-.mappable td.text_status{
+.status_open td.text_status,
+.status_mappable td.text_status,
+.status_ td.text_status,
+.category_  td.text_category{
 	background-color: yellow;
 }

@@ -33,7 +33,7 @@ $(document).ready(function(){
 						}
 						map_ids.push(this.id+"_"+localVideoCount);
 						
-						var row = "<tr id=\"row_"+this.id+"_"+localVideoCount+"\" class=\""+this.category.toLowerCase().replace(" ","_")+" "+this.status.toLowerCase().replace(" ","_")+"\">"+
+						var row = "<tr id=\"row_"+this.id+"_"+localVideoCount+"\" class=\"category_"+this.category.toLowerCase().replace(" ","_")+" status_"+this.status.toLowerCase().replace(" ","_")+"\">"+
 							"<td class=\"text_content text_id\"><a href=\"https://www.youtube.com/watch?v="+this.id+"\">"+this.id+"</td>"+
 							"<td class=\"text_content text_title\">"+this.title+"</td>"+
 							"<td><img src=\"https://img.youtube.com/vi/"+this.id+"/default.jpg\" /></td>"+
