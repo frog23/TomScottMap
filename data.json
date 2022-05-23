@@ -1,6 +1,6 @@
 {"data":[
-{"id":"nGlhMk1hEZw", "title":"The massive Fatigue Carousel helps keep roads safe", "lat":"", "long":"", "category":"", "comment":"", "status":"open", "internal_comment":""},
-{"id":"3fJhTu-0zmo", "title":"I flew with birds. You can too.", "lat":"", "long":"", "category":"", "comment":"", "status":"open", "internal_comment":""},
+{"id":"nGlhMk1hEZw", "title":"The massive Fatigue Carousel helps keep roads safe", "lat":"47.15362", "long":"-1.64139", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
+{"id":"3fJhTu-0zmo", "title":"I flew with birds. You can too.", "lat":"45.0753", "long":"2.9903", "category":"Places", "comment":"The aerodrome, where the flights start.", "status":"mapped", "internal_comment":""},
 {"id":"_zJbi9YatcA", "title":"You're not allowed in this cave. But there's a copy.", "lat":"44.40712", "long":"4.42673", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"6kolTgj7uQc", "title":"Europe's toughest airport landing used to be a lot harder", "lat":"32.69534", "long":"-16.77664", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"19o8yPaVp58", "title":"Speeding downhill on a sofa is a tourist attraction in Madeira", "lat":"32.67540", "long":"-16.90267", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
@@ -847,7 +847,7 @@
 {"id":"Fl-TnkmhTOM", "title":"Welcome to Matt and Tom's Park Bench", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"open", "internal_comment":""},
 
 {"comment":"//Videos from Tom's second channel: Tom Scott plus"},
-{"id":"qG04nqjL_iA", "title":"This cave kicked my ass. I went back for a rematch.", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"open", "internal_comment":""},
+{"id":"qG04nqjL_iA", "title":"This cave kicked my ass. I went back for a rematch.", "lat":"53.34025", "long":"-1.77894", "category":"Plus", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"T4tcZAduiVk", "title":"I tried herding sheep, and the sheep won.", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"icQmJ4Ty0Os", "title":"Tom Scott gets set on fire (by an expert stunt team)", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"GmC05wOc5Dw", "title":"Can you stalk someone with an Apple AirTag?", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"no coordinates", "internal_comment":"There is no point in mapping the various places that Tom went by on his chase"},
@@ -863,7 +863,7 @@
 {"id":"TaFTKRjMY68", "title":"I regret being the host of this | Tom Scott, Matt Parker, dodie, and Sophie Ward play No Thanks", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"e2HUg144liM", "title":"I tried blacksmithing and only got slightly burned", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"Z-iNAyu-ejo", "title":"I don't like coffee. Can James Hoffmann change that?", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"no coordinates", "internal_comment":""},
-{"id":"9KOZUw_Ah8w", "title":"I tried caving and found out I'm very bad at caving", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"no coordinates", "internal_comment":""},
+{"id":"9KOZUw_Ah8w", "title":"I tried caving and found out I'm very bad at caving", "lat":"53.34019", "long":"-1.77842", "category":"Plus", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"rK2locyo-Pc", "title":"non-extreme, entirely normal $0,000 game of Skull", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"N9OKVCt8dOM", "title":"I tried aerobatics with Jay Foreman and neither of us could handle it | Tom Scott plus", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"d9zHO6Lh2zY", "title":"Tom Scott plus: the new second channel", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"no coordinates", "internal_comment":""},
