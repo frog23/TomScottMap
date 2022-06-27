@@ -1,5 +1,5 @@
 {"data":[
-{"id":"uAdmzyKagvE", "title":"This clock was famous, but the internet ruined it.", "lat":"", "long":"", "category":"", "comment":"", "status":"open", "internal_comment":""},
+{"id":"uAdmzyKagvE", "title":"This clock was famous, but the internet ruined it.", "lat":"52.2615", "long":"4.7812", "category":"Things", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"hSmtKMx1CB4", "title":"Can you really drive while facing backwards?", "lat":"48.80510", "long":"2.40106", "category":"Things", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"m0mwlSZ0bQQ", "title":"It's a pile of mining waste. Want to go skiing on it?", "lat":"49.53131", "long":"11.96545", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"cz231Zi8Z7g", "title":"Maybe rich people should build weird fountains again", "lat":"51.31592", "long":"9.39631", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
@@ -852,7 +852,7 @@
 {"id":"Fl-TnkmhTOM", "title":"Welcome to Matt and Tom's Park Bench", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"open", "internal_comment":""},
 
 {"comment":"//Videos from Tom's second channel: Tom Scott plus"},
-{"id":"FU9J6mrKE28", "title":"I can't cook, but the person in my ear can.", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"open", "internal_comment":""},
+{"id":"FU9J6mrKE28", "title":"I can't cook, but the person in my ear can.", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"-BdZPFzH2JY", "title":"I'm scared of rollercoasters. Can I get over my fear?", "lat":"52.98701", "long":"-1.88282", "category":"Plus", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"Tvflpm-shoY", "title":"I'm really bad at flying a hovercraft", "lat":"52.44124", "long":"-1.03149", "category":"Plus", "comment":"Location of the Axceler-8 Hovercraft Centre", "status":"mapped", "internal_comment":""},
 {"id":"qG04nqjL_iA", "title":"This cave kicked my ass. I went back for a rematch.", "lat":"53.34025", "long":"-1.77894", "category":"Plus", "comment":"", "status":"mapped", "internal_comment":""},
