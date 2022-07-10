@@ -105,8 +105,8 @@ $(document).ready(function(){
 			$( "#statistics" ).append(statistics);
 			
 			$( "#show_unmapped" ).click(function() {
-				$( ".mapped" ).addClass( "hidden" );
-				$( ".no_coordinates" ).addClass( "hidden" );
+				$( ".status_mapped" ).addClass( "hidden" );
+				$( ".status_no_coordinates" ).addClass( "hidden" );
 				$( "#show_unmapped" ).hide();
 				$( "#show_all" ).show();
 				$( "#review_map" ).hide();
