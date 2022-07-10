@@ -1,0 +1,14 @@
+
+.vscode/
+
+images/
+
+resources/
+
+.DS_Store
+
+leaflet.awesome-markers.js
+
+leaflet.awesome-markers.min.js
+
+leaflet.awesome-markers.css
