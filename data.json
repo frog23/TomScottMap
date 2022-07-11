@@ -880,7 +880,7 @@
 {"id":"d9zHO6Lh2zY", "title":"Tom Scott plus: the new second channel", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"no coordinates", "internal_comment":""},
 
 {"comment":"//Videos from Tom's, Gary's, Chris's, Matt's (second) channel: The Technical Difficulties"},
-{"id":"inIX6XbDjjU", "title":"Gary cooks bacon on a steam engine's firebox", "lat":"53.829437", "long":"-1.948933", "category":"OtherChannel", "comment":"", "status":"mapped", "internal_comment":""},
+{"id":"inIX6XbDjjU", "title":"Gary cooks bacon on a steam engine's firebox", "lat":"53.829437", "long":"-1.948933", "category":"TechDif", "comment":"", "status":"mapped", "internal_comment":""},
   
 {"comment":"//Videos from other channels"},
 {"id":"WZskjLq040I", "title":"Tom Scott vs Irving Finkel: The Royal Game of Ur", "lat":"51.5192", "long":"-0.1280", "category":"OtherChannel", "comment":"The British Museum where the original game is stored (and sometimes on display).", "status":"mapped", "internal_comment":""},

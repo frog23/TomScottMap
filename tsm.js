@@ -71,6 +71,12 @@ function generateIcons(){
 	    prefix: 'fa'
 	  });
 	
+	techdifMarker = L.AwesomeMarkers.icon({
+	    icon: 'warning',
+	    markerColor: 'green',
+	    prefix: 'fa'
+	  });
+	
 	otherChannelMarker = L.AwesomeMarkers.icon({
 	    icon: 'asterisk',
 	    markerColor: 'orange',
@@ -93,6 +99,8 @@ function getIcon(category){
 		return scienceMarker;
 	}else if(category == "Plus"){
 		return plusMarker;
+	}else if(category == "TechDif"){
+		return techdifMarker;
 	}else{
 		return defaultMarker;
 	}
