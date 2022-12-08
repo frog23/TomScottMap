@@ -1,5 +1,6 @@
 {"data":[
-{"id":"eMTZvA8iFgI", "title":"Firing radioactive stuff at high speed under city streets", "lat":"49.24714", "long":"-123.23018", "category":"BuiltForScience", "comment":"Coordinates of the accelerator, where the Rabbit Line starts.", "status":"mapped", "internal_comment":""},
+{"id":"eMTZvA8iFgI", "title":"Firing radioactive stuff at high speed under city streets", "lat":"49.24714", "long":"-123.23018", "category":"BuiltForScience", "comment":"The accelerator, where the Rabbit Line starts.", "status":"mapped", "internal_comment":""},
+{"id":"eMTZvA8iFgI", "title":"Firing radioactive stuff at high speed under city streets", "lat":"49.26438", "long":"-123.24432", "category":"BuiltForScience", "comment":"The hospital, where the Rabbit Line ends.", "status":"mapped", "internal_comment":""},
 {"id":"nCrTsWtPVIY", "title":"Why has no-one built a power station here yet?", "lat":"45.26087", "long":"-66.08748", "category":"Places", "comment":"The reversing falls in Saint John", "status":"mapped", "internal_comment":""},
 {"id":"nCrTsWtPVIY", "title":"Why has no-one built a power station here yet?", "lat":"46.09169", "long":"-64.76413", "category":"Places", "comment":"The place in Moncton, where Tom filmed the tidal wave.", "status":"mapped", "internal_comment":""},
 {"id":"I99Qgb4mE5I", "title":"Why build a diving board twice the Olympic height?", "lat":"45.55962", "long":"-73.55267", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
@@ -917,7 +918,8 @@
 {"id":"d9zHO6Lh2zY", "title":"Tom Scott plus: the new second channel", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"no coordinates", "internal_comment":""},
 
 {"comment":"//Videos from Tom's, Gary's, Chris's, Matt's (second) channel: The Technical Difficulties"},
-{"id":"ULoZP4GIcbg", "title":"Tom takes a walk up a hill", "lat":"", "long":"", "category":"TechDif", "comment":"", "status":"open", "internal_comment":""},
+{"id":"ULoZP4GIcbg", "title":"Tom takes a walk up a hill", "lat":"63.41846", "long":"-19.01008", "category":"TechDif", "comment":"The Icelandic Lava Show", "status":"mapped", "internal_comment":""},
+{"id":"ULoZP4GIcbg", "title":"Tom takes a walk up a hill", "lat":"63.8989", "long":"-22.2486", "category":"TechDif", "comment":"The volcano Tom wanted to watch", "status":"mapped", "internal_comment":""},
 {"id":"eiTuwQGImNo", "title":"Matt has one hour to hover a helicopter", "lat":"", "long":"", "category":"TechDif", "comment":"", "status":"open", "internal_comment":""},
 {"id":"UV5B9jqxvGs", "title":"Chris puts his beard in significant peril", "lat":"", "long":"", "category":"TechDif", "comment":"", "status":"open", "internal_comment":""},
 {"id":"-BBe7NNIqGo", "title":"Matt gets angry at some clay", "lat":"51.58099", "long":"-0.02489", "category":"TechDif", "comment":"approximate location of the pottery studio from Jo Davis", "status":"mapped", "internal_comment":""},
