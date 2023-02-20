@@ -1,6 +1,6 @@
 {"data":[
-{"id":"YTHZLKFblKo", "title":"This café sends food through pneumatic tubes", "lat":"", "long":"", "category":"", "comment":"", "status":"open", "internal_comment":""},
-{"id":"jPhJbKBuNnA", "title":"I tried using AI. It scared me.", "lat":"", "long":"", "category":"", "comment":"", "status":"open", "internal_comment":""},
+{"id":"YTHZLKFblKo", "title":"This café sends food through pneumatic tubes", "lat":"-43.53511", "long":"172.64048", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
+{"id":"jPhJbKBuNnA", "title":"I tried using AI. It scared me.", "lat":"", "long":"", "category":"Other", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"7qNOtgrIjO4", "title":"Google gave the Shweeb $1,000,000.", "lat":"-38.08744", "long":"176.19036", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"bu5-VERN3XY", "title":"Why Australia bottles up its air", "lat":"-40.68296", "long":"144.69002", "category":"BuiltForScience", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"6o38C-ultvw", "title":"I took a ride on a moving radio telescope", "lat":"-32.99836", "long":"148.26349", "category":"BuiltForScience", "comment":"", "status":"mapped", "internal_comment":""},
