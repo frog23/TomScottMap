@@ -1,5 +1,5 @@
 {"data":[
-{"id":"wcp1BfPUeOc", "title":"This is “impossible”, but New Zealand is trying anyway.", "lat":"", "long":"", "category":"", "comment":"", "status":"open", "internal_comment":""},
+{"id":"wcp1BfPUeOc", "title":"This is “impossible”, but New Zealand is trying anyway.", "lat":"-41.3169", "long":"174.8055", "category":"Things", "comment":"the approximate location of the trap in the buffer zone", "status":"mapped", "internal_comment":""},
 {"id":"YTHZLKFblKo", "title":"This café sends food through pneumatic tubes", "lat":"-43.53511", "long":"172.64048", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"jPhJbKBuNnA", "title":"I tried using AI. It scared me.", "lat":"", "long":"", "category":"Other", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"7qNOtgrIjO4", "title":"Google gave the Shweeb $1,000,000.", "lat":"-38.08744", "long":"176.19036", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
@@ -891,8 +891,8 @@
 {"id":"Fl-TnkmhTOM", "title":"Welcome to Matt and Tom's Park Bench", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"open", "internal_comment":""},
 
 {"comment":"//Videos from Tom's second channel: Tom Scott plus"},
-{"id":"MvbAEEBLva8", "title":"It's time to terrify my production team.", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"open", "internal_comment":""},
-{"id":"ZmWREtcDVBE", "title":"Who's faster around London: a taxi driver or a GPS?", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"open", "internal_comment":""},
+{"id":"MvbAEEBLva8", "title":"It's time to terrify my production team.", "lat":"50.10177", "long":"-122.93614", "category":"Plus", "comment":"", "status":"mapped", "internal_comment":""},
+{"id":"ZmWREtcDVBE", "title":"Who's faster around London: a taxi driver or a GPS?", "lat":"51.53788", "long":"-0.10538", "category":"Plus", "comment":"Location of the final meeting point", "status":"mapped", "internal_comment":""},
 {"id":"qvot0oeaH_4", "title":"Tom Scott vs TomSka: who is the best Tom?", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"uYLwEcxsDkI", "title":"I chased the Jet Lag team around London", "lat":"51.51616", "long":"-0.11613", "category":"Plus", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"S9GJRC5XSXc", "title":"I'm not scary. Can I terrify someone in a haunted house?", "lat":"28.33026", "long":"-81.51611", "category":"Plus", "comment":"", "status":"mapped", "internal_comment":""},
@@ -933,12 +933,12 @@
 {"id":"d9zHO6Lh2zY", "title":"Tom Scott plus: the new second channel", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"no coordinates", "internal_comment":""},
 
 {"comment":"//Videos from Tom's, Gary's, Chris's, Matt's (second) channel: The Technical Difficulties"},
-{"id":"AL0ls_UpT8w", "title":"Gary makes a very loud noise", "lat":"", "long":"", "category":"TechDif", "comment":"", "status":"open", "internal_comment":""},
+{"id":"AL0ls_UpT8w", "title":"Gary makes a very loud noise", "lat":"59.85400", "long":"-1.27462", "category":"TechDif", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"B84B4VMs09k", "title":"Chris moves a boat down some steps", "lat":"53.85611", "long":"-1.83802", "category":"TechDif", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"ULoZP4GIcbg", "title":"Tom takes a walk up a hill", "lat":"63.41846", "long":"-19.01008", "category":"TechDif", "comment":"The Icelandic Lava Show", "status":"mapped", "internal_comment":""},
 {"id":"ULoZP4GIcbg", "title":"Tom takes a walk up a hill", "lat":"63.8989", "long":"-22.2486", "category":"TechDif", "comment":"The volcano Tom wanted to watch", "status":"mapped", "internal_comment":""},
-{"id":"eiTuwQGImNo", "title":"Matt has one hour to hover a helicopter", "lat":"", "long":"", "category":"TechDif", "comment":"", "status":"open", "internal_comment":""},
-{"id":"UV5B9jqxvGs", "title":"Chris puts his beard in significant peril", "lat":"", "long":"", "category":"TechDif", "comment":"", "status":"open", "internal_comment":""},
+{"id":"eiTuwQGImNo", "title":"Matt has one hour to hover a helicopter", "lat":"50.86022", "long":"-0.75505", "category":"TechDif", "comment":"Elite Helicopters at Goodwood Aerodrome", "status":"mapped", "internal_comment":""},
+{"id":"UV5B9jqxvGs", "title":"Chris puts his beard in significant peril", "lat":"", "long":"", "category":"TechDif", "comment":"", "status":"no coordinates", "internal_comment":"Chris said 'undisclosed location', so I assume he wouldn't want this to be mapped, even if someone figures out, where exactly he was."},
 {"id":"-BBe7NNIqGo", "title":"Matt gets angry at some clay", "lat":"51.58099", "long":"-0.02489", "category":"TechDif", "comment":"approximate location of the pottery studio from Jo Davis", "status":"mapped", "internal_comment":""},
 {"id":"Q1YXekapPdA", "title":"Tom fulfills a childhood dream", "lat":"51.42380", "long":"-0.13112", "category":"TechDif", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"inIX6XbDjjU", "title":"Gary cooks bacon on a steam engine's firebox", "lat":"53.829437", "long":"-1.948933", "category":"TechDif", "comment":"", "status":"mapped", "internal_comment":""},
