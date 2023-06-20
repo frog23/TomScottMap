@@ -1,7 +1,7 @@
 {"data":[
-{"id":"72RxerDwzEo", "title":"The cable car that you pedal by hand", "lat":"", "long":"", "category":"", "comment":"", "status":"open", "internal_comment":""},
-{"id":"tMlHDnbEIDA", "title":"This submarine simulator floats through a tiny world", "lat":"", "long":"", "category":"", "comment":"", "status":"open", "internal_comment":""},
-{"id":"ar0klhiJfDI", "title":"No-one knows how explosions work (yet)", "lat":"", "long":"", "category":"", "comment":"", "status":"open", "internal_comment":""},
+{"id":"72RxerDwzEo", "title":"The cable car that you pedal by hand", "lat":"46.25065", "long":"13.72629", "category":"Places", "comment":"Kurukula", "status":"mapped", "internal_comment":""},
+{"id":"tMlHDnbEIDA", "title":"This submarine simulator floats through a tiny world", "lat":"43.84381", "long":"12.27040", "category":"Other", "comment":"The old mill, where Bathysphere Project at Explorandia is located. Please don't show up there unannounced. Go to their website first ( https://www.explorandia.it/page/bathysphere ), read it and contect them accordingly.", "status":"mapped", "internal_comment":""},
+{"id":"ar0klhiJfDI", "title":"No-one knows how explosions work (yet)", "lat":"", "long":"", "category":"Other", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"xWL40q3DMoQ", "title":"This is an excuse to show you a really good tunnel", "lat":"52.20840", "long":"-1.22088", "category":"BuiltForScience", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"Sj3iI9jZCX8", "title":"Shake tables are way more complex than I thought", "lat":"32.89369", "long":"-117.10912", "category":"BuiltForScience", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"1v8u3ua6BPk", "title":"The people who get paid to get sick", "lat":"51.51598", "long":"-0.06605", "category":"BuiltForScience", "comment":"", "status":"mapped", "internal_comment":""},
@@ -950,9 +950,9 @@
 {"id":"d9zHO6Lh2zY", "title":"Tom Scott plus: the new second channel", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"no coordinates", "internal_comment":""},
 
 {"comment":"//Videos from Tom's, Gary's, Chris's, Matt's (second) channel: The Technical Difficulties"},
-{"id":"G1yQsPI5ub0", "title":"Matt tries not to fall over", "lat":"", "long":"", "category":"TechDif", "comment":"", "status":"open", "internal_comment":""},
-{"id":"6CJZ5BwpuRk", "title":"Tom becomes the Mayor of Hell", "lat":"", "long":"", "category":"TechDif", "comment":"", "status":"open", "internal_comment":""},
-{"id":"nUf8-P3d5mk", "title":"Chris does drag", "lat":"", "long":"", "category":"TechDif", "comment":"", "status":"open", "internal_comment":""},
+{"id":"G1yQsPI5ub0", "title":"Matt tries not to fall over", "lat":"51.52054", "long":"-0.20484", "category":"TechDif", "comment":"Skatepark BaySixty6", "status":"mapped", "internal_comment":""},
+{"id":"6CJZ5BwpuRk", "title":"Tom becomes the Mayor of Hell", "lat":"42.43446", "long":"-83.98596", "category":"TechDif", "comment":"", "status":"mapped", "internal_comment":""},
+{"id":"nUf8-P3d5mk", "title":"Chris does drag", "lat":"", "long":"", "category":"TechDif", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"AL0ls_UpT8w", "title":"Gary makes a very loud noise", "lat":"59.85400", "long":"-1.27462", "category":"TechDif", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"B84B4VMs09k", "title":"Chris moves a boat down some steps", "lat":"53.85611", "long":"-1.83802", "category":"TechDif", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"ULoZP4GIcbg", "title":"Tom takes a walk up a hill", "lat":"63.41846", "long":"-19.01008", "category":"TechDif", "comment":"The Icelandic Lava Show", "status":"mapped", "internal_comment":""},
