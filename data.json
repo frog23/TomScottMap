@@ -950,7 +950,7 @@
 {"id":"d9zHO6Lh2zY", "title":"Tom Scott plus: the new second channel", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"no coordinates", "internal_comment":""},
 
 {"comment":"//Videos from Tom's, Gary's, Chris's, Matt's (second) channel: The Technical Difficulties"},
-{"id":"OwQwz07-DFc", "title":"Gary ends the season with a banger", "lat":"53.9451", "long":"-1.09274", "category":"TechDif", "comment":"Knavesmire Butchers", "status":"open", "internal_comment":""},
+{"id":"OwQwz07-DFc", "title":"Gary ends the season with a banger", "lat":"53.9451", "long":"-1.09274", "category":"TechDif", "comment":"Knavesmire Butchers", "status":"mapped", "internal_comment":""},
 {"id":"G1yQsPI5ub0", "title":"Matt tries not to fall over", "lat":"51.52054", "long":"-0.20484", "category":"TechDif", "comment":"Skatepark BaySixty6", "status":"mapped", "internal_comment":""},
 {"id":"6CJZ5BwpuRk", "title":"Tom becomes the Mayor of Hell", "lat":"42.43446", "long":"-83.98596", "category":"TechDif", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"nUf8-P3d5mk", "title":"Chris does drag", "lat":"", "long":"", "category":"TechDif", "comment":"", "status":"no coordinates", "internal_comment":""},
