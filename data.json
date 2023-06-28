@@ -1,5 +1,5 @@
 {"data":[
-{"id":"rn_8GXNN7_Q", "title":"The first jungle gym was meant to hack kids' brains", "lat":"", "long":"", "category":"", "comment":"", "status":"open", "internal_comment":""},
+{"id":"rn_8GXNN7_Q", "title":"The first jungle gym was meant to hack kids' brains", "lat":"42.10240", "long":"-87.73327", "category":"Things", "comment":"The location of Winnetka Historical Society", "status":"mapped", "internal_comment":""},
 {"id":"72RxerDwzEo", "title":"The cable car that you pedal by hand", "lat":"46.25065", "long":"13.72629", "category":"Places", "comment":"Kurukula", "status":"mapped", "internal_comment":""},
 {"id":"tMlHDnbEIDA", "title":"This submarine simulator floats through a tiny world", "lat":"43.84381", "long":"12.27040", "category":"Other", "comment":"The old mill, where Bathysphere Project at Explorandia is located. Please don't show up there unannounced. Go to their website first ( https://www.explorandia.it/page/bathysphere ), read it and contect them accordingly.", "status":"mapped", "internal_comment":""},
 {"id":"ar0klhiJfDI", "title":"No-one knows how explosions work (yet)", "lat":"", "long":"", "category":"Other", "comment":"", "status":"no coordinates", "internal_comment":""},
@@ -695,7 +695,7 @@
 {"id":"j9Q1cM7_ai4", "title":"Ghoti and the Ministry of Helth: Spelling Reform", "lat":"", "long":"", "category":"Linguistics", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"2qT8ZYewYEY", "title":"There's Nothing Wrong With Saying \"10 Items or Less\": Descriptivism vs Prescriptivism", "lat":"", "long":"", "category":"Linguistics", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"wA2xRVMOThc", "title":"Why You Swear in Anglo-Saxon and Order Fancy Food in French: Registers", "lat":"", "long":"", "category":"Linguistics", "comment":"", "status":"no coordinates", "internal_comment":""},
-{"id":"zYd_8-Ps_kw", "title":"Whatever Happened to Tom's Hoodie?: Tom Scott at Thinking Digital 2013", "lat":"", "long":"", "category":"Other", "comment":"", "status":"no coordinates", "internal_comment":""},
+{"id":"zYd_8-Ps_kw", "title":"Whatever Happened to Tom's Hoodie?: Tom Scott at Thinking Digital 2013", "lat":"54.96473", "long":"-1.61120", "category":"Other", "comment":"Location of the Parking Lot where Tom burned his hoodie.", "status":"mapped", "internal_comment":""},
 {"id":"2TtnD4jmCDQ", "title":"All The Colours, Including Grue: How Languages See Colours Differently", "lat":"", "long":"", "category":"Linguistics", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"QYlVJlmjLEc", "title":"Fantastic Features We Don't Have In The English Language", "lat":"", "long":"", "category":"Linguistics", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"ld3A3QCpXd4", "title":"Why Jonathan Ross Can't Pronounce His Rs", "lat":"", "long":"", "category":"Linguistics", "comment":"", "status":"no coordinates", "internal_comment":""},
@@ -855,7 +855,7 @@
 {"id":"VTx9lYpfWSg", "title":"GoPro Hero 5: Why you should upgrade right now!", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"open", "internal_comment":""},
 {"id":"kjR_mDX_GyQ", "title":"Park Bench: Live!", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"open", "internal_comment":""},
 {"id":"bqfBvB7ERho", "title":"Matt Controlled The World's Largest Steerable Radio Telescope!", "lat":"38.43326", "long":"-79.84000", "category":"ParkBench", "comment":"", "status":"mapped", "internal_comment":""},
-{"id":"64pYTYx_6eU", "title":"The National Radio Quiet Zone Reporting Is Bollocks", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"open", "internal_comment":""},
+{"id":"64pYTYx_6eU", "title":"The National Radio Quiet Zone Reporting Is Bollocks", "lat":"38.43326", "long":"-79.84000", "category":"ParkBench", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"N5oGTbB8RTk", "title":"Tales From The Arctic 3: The Auction, Driving the Ship and Coming Home", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"open", "internal_comment":""},
 {"id":"Xx7UdKm4x7c", "title":"Tales From The Arctic 2: Helicopters, Ice Fjords, and the hunt for Science", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"open", "internal_comment":""},
 {"id":"W3WuxFuPSu0", "title":"Tales From The Arctic 1: The Arrival, The Icebreaker, and The Roommate.", "lat":"", "long":"", "category":"ParkBench", "comment":"", "status":"open", "internal_comment":""},
@@ -947,7 +947,7 @@
 {"id":"Z-iNAyu-ejo", "title":"I don't like coffee. Can James Hoffmann change that?", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"9KOZUw_Ah8w", "title":"I tried caving and found out I'm very bad at caving", "lat":"53.34019", "long":"-1.77842", "category":"Plus", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"rK2locyo-Pc", "title":"non-extreme, entirely normal $0,000 game of Skull", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"no coordinates", "internal_comment":""},
-{"id":"N9OKVCt8dOM", "title":"I tried aerobatics with Jay Foreman and neither of us could handle it | Tom Scott plus", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"no coordinates", "internal_comment":""},
+{"id":"N9OKVCt8dOM", "title":"I tried aerobatics with Jay Foreman and neither of us could handle it | Tom Scott plus", "lat":"52.08255", "long":"0.05880", "category":"Plus", "comment":"Location of the British Aerobatic Academy in Fowlmere", "status":"mapped", "internal_comment":""},
 {"id":"d9zHO6Lh2zY", "title":"Tom Scott plus: the new second channel", "lat":"", "long":"", "category":"Plus", "comment":"", "status":"no coordinates", "internal_comment":""},
 
 {"comment":"//Videos from Tom's, Gary's, Chris's, Matt's (second) channel: The Technical Difficulties"},
