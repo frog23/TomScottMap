@@ -1,7 +1,7 @@
 {"data":[
-{"id":"_G2Q1qsoGEU", "title":"No-one built these for 5,000 years… until now.", "lat":"", "long":"", "category":"", "comment":"", "status":"open", "internal_comment":""},
-{"id":"nbafT2w0cCQ", "title":"This town throws pennies at people. They hurt.", "lat":"", "long":"", "category":"", "comment":"", "status":"open", "internal_comment":""},
-{"id":"R2oD1ZHNMFE", "title":"This town banned cars (except tiny electric ones)", "lat":"", "long":"", "category":"", "comment":"", "status":"open", "internal_comment":""},
+{"id":"_G2Q1qsoGEU", "title":"No-one built these for 5,000 years… until now.", "lat":"52.874437", "long":"-2.677437", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
+{"id":"nbafT2w0cCQ", "title":"This town throws pennies at people. They hurt.", "lat":"50.799688", "long":"-3.189687", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
+{"id":"R2oD1ZHNMFE", "title":"This town banned cars (except tiny electric ones)", "lat":"46.023937", "long":"7.747813", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"85BykUan6pw", "title":"Storing dead people at -196°C", "lat":"", "long":"", "category":"", "comment":"", "status":"open", "internal_comment":""},
 {"id":"xq4ZkfojSis", "title":"A bear found my GoPro and took a selfie", "lat":"", "long":"", "category":"", "comment":"", "status":"open", "internal_comment":""},
 {"id":"Oarf76MCrss", "title":"Grizzly bear GoPro selfie: raw unedited footage", "lat":"", "long":"", "category":"", "comment":"", "status":"open", "internal_comment":""},
