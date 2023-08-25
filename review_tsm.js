@@ -41,12 +41,12 @@ $(document).ready(function(){
 							"<td class=\"text_content text_comment\">"+this.comment+"</td>"+
 							"<td class=\"text_content text_status\">"+this.status+"</td>";
 							if(this.lat){
-								row = row + "<td class=\"text_content\">"+this.lat+"</td>";
+								row = row + "<td class=\"text_content\"><a href=\"https://www.openstreetmap.org/?mlat="+this.lat+"&mlon="+this.long+"#map=18/"+this.lat+"/"+this.long+"\">"+this.lat+"</a></td>";
 							}else{
 								row = row + "<td></td>";							
 							}
 							if(this.long){
-								row = row + "<td class=\"text_content\">"+this.long+"</td>";
+								row = row + "<td class=\"text_content\"><a href=\"https://www.openstreetmap.org/?mlat="+this.lat+"&mlon="+this.long+"#map=18/"+this.lat+"/"+this.long+"\">"+this.long+"</a></td>";
 							}else{
 								row = row + "<td></td>";							
 							}
