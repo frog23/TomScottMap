@@ -1,8 +1,9 @@
 {"data":[
-{"id":"3kwDVw0u4Kw", "title":"These houses are spheres", "lat":"", "long":"", "category":"", "comment":"", "status":"open", "internal_comment":""},
-{"id":"TFpzps-DCb0", "title":"How languages steal words from each other", "lat":"", "long":"", "category":"", "comment":"", "status":"open", "internal_comment":""},
+{"id":"3kwDVw0u4Kw", "title":"These houses are spheres", "lat":"51.729813", "long":"5.306812", "category":"Places", "comment":"Bolwoningen", "status":"mapped", "internal_comment":""},
+{"id":"3kwDVw0u4Kw", "title":"These houses are spheres", "lat":"51.920187", "long":"4.490562", "category":"Places", "comment":"The Cube Houses in Rotterdam", "status":"mapped", "internal_comment":""},
+{"id":"TFpzps-DCb0", "title":"How languages steal words from each other", "lat":"", "long":"", "category":"Linguistics", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"ZNVuIU6UUiM", "title":"This library has every book ever published.", "lat":"51.52997", "long":"-0.12767", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
-{"id":"Is_wu0VRIqQ", "title":"Why are adverts so loud?", "lat":"", "long":"", "category":"", "comment":"", "status":"open", "internal_comment":""},
+{"id":"Is_wu0VRIqQ", "title":"Why are adverts so loud?", "lat":"", "long":"", "category":"Other", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"1yfX84RMQ3M", "title":"This man built his office inside an elevator", "lat":"49.2232", "long":"17.65890", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"_G2Q1qsoGEU", "title":"No-one built these for 5,000 years… until now.", "lat":"52.87374", "long":"-2.67877", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"nbafT2w0cCQ", "title":"This town throws pennies at people. They hurt.", "lat":"50.79951", "long":"-3.18961", "category":"Places", "comment":"The building from which the first pennies were thrown in the video", "status":"mapped", "internal_comment":""},
