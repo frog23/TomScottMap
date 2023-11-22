@@ -1,8 +1,8 @@
 {"data":[
 {"id":"jplrbxI5GN8", "title":"I've wanted to drive these tiny ships for years.", "lat":"", "long":"", "category":"", "comment":"", "status":"open", "internal_comment":""},
-{"id":"lIbfMjZ0ME4", "title":"Every mistake I've made since 2014.", "lat":"", "long":"", "category":"", "comment":"", "status":"open", "internal_comment":""},
-{"id":"CmZdGo6b5yA", "title":"Does the language you speak change how you think?", "lat":"", "long":"", "category":"", "comment":"", "status":"open", "internal_comment":""},
-{"id":"j3OqAN4ISOw", "title":"Boarding planes could have been very different", "lat":"", "long":"", "category":"", "comment":"", "status":"open", "internal_comment":""},
+{"id":"lIbfMjZ0ME4", "title":"Every mistake I've made since 2014.", "lat":"", "long":"", "category":"Other", "comment":"", "status":"no coordinates", "internal_comment":"Just referencing other videos"},
+{"id":"CmZdGo6b5yA", "title":"Does the language you speak change how you think?", "lat":"", "long":"", "category":"Linguistics", "comment":"", "status":"no coordinates", "internal_comment":""},
+{"id":"j3OqAN4ISOw", "title":"Boarding planes could have been very different", "lat":"45.459207", "long":"-73.753281", "category":"Places", "comment":"Terminal with the mobile lounges", "status":"mapped", "internal_comment":""},
 {"id":"XQIu5tZ0vbQ", "title":"0-100 in less than a second. And I'm driving.", "lat":"47.405443", "long":"8.63179", "category":"Other", "comment":"Location of the race track", "status":"mapped", "internal_comment":""},
 {"id":"CkZyZFa5qO0", "title":"there’dn’t’ve", "lat":"", "long":"", "category":"Linguistics", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"ZgDBIzClmPg", "title":"I finally rode the weird, curved German elevator.", "lat":"52.36757", "long":"9.7375", "category":"Places", "comment":"", "status":"mapped", "internal_comment":"Entry of the Building"},
