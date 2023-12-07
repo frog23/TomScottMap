@@ -1,6 +1,6 @@
 {"data":[
-{"id":"pU9sHwNKc2c", "title":"Why don't subtitles match dubbing?", "lat":"", "long":"", "category":"", "comment":"", "status":"open", "internal_comment":""},
-{"id":"LDiXNsWQzD0", "title":"Why use many streetlights when one will do?", "lat":"", "long":"", "category":"", "comment":"", "status":"open", "internal_comment":""},
+{"id":"pU9sHwNKc2c", "title":"Why don't subtitles match dubbing?", "lat":"", "long":"", "category":"Other", "comment":"", "status":"no coordinates", "internal_comment":""},
+{"id":"LDiXNsWQzD0", "title":"Why use many streetlights when one will do?", "lat":"30.24141", "long":"-97.74739", "category":"Places", "comment":"The Moonlight Tower where Tom filmed at. <a href=\"https://overpass-turbo.eu/s/1Er5\">A map of all of them can be found here.</a> ", "status":"mapped", "internal_comment":""},
 {"id":"jplrbxI5GN8", "title":"I've wanted to drive these tiny ships for years.", "lat":"53.60902", "long":"19.50855", "category":"Places", "comment":"", "status":"mapped", "internal_comment":""},
 {"id":"lIbfMjZ0ME4", "title":"Every mistake I've made since 2014.", "lat":"", "long":"", "category":"Other", "comment":"", "status":"no coordinates", "internal_comment":"Just referencing other videos"},
 {"id":"CmZdGo6b5yA", "title":"Does the language you speak change how you think?", "lat":"", "long":"", "category":"Linguistics", "comment":"", "status":"no coordinates", "internal_comment":""},
