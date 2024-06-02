@@ -1,7 +1,7 @@
 {"data":[
-{"id":"7DKv5H5Frt0", "title":"After ten years, it's time to stop making videos.", "lat":"", "long":"", "category":"", "comment":"", "status":"open", "internal_comment":""},
-{"id":"F0JDK_71yDg", "title":"Britain's power grid is turning inside-out.", "lat":"", "long":"", "category":"", "comment":"", "status":"open", "internal_comment":""},
-{"id":"Zl_5LT2fzak", "title":"Why the government drops flies on California", "lat":"", "long":"", "category":"", "comment":"", "status":"open", "internal_comment":""},
+{"id":"7DKv5H5Frt0", "title":"After ten years, it's time to stop making videos.", "lat":"", "long":"", "category":"Other", "comment":"", "status":"no coordinates", "internal_comment":""},
+{"id":"F0JDK_71yDg", "title":"Britain's power grid is turning inside-out.", "lat":"53.14456", "long":"-0.99061", "category":"Places", "comment":"National Grid Training Centre", "status":"mapped", "internal_comment":""},
+{"id":"Zl_5LT2fzak", "title":"Why the government drops flies on California", "lat":"", "long":"", "category":"Things", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"hNZy603as5w", "title":"A robot just swapped my electric car's battery", "lat":"52.01173", "long":"4.31533", "category":"Places", "comment":"The battery swap station", "status":"mapped", "internal_comment":""},
 {"id":"pU9sHwNKc2c", "title":"Why don't subtitles match dubbing?", "lat":"", "long":"", "category":"Other", "comment":"", "status":"no coordinates", "internal_comment":""},
 {"id":"LDiXNsWQzD0", "title":"Why use many streetlights when one will do?", "lat":"30.24141", "long":"-97.74739", "category":"Places", "comment":"The Moonlight Tower where Tom filmed at. <a href=\"https://overpass-turbo.eu/s/1Er5\">A map of all of them can be found here.</a> ", "status":"mapped", "internal_comment":""},
