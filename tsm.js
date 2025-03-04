@@ -76,6 +76,12 @@ function generateIcons(){
 	    markerColor: 'green',
 	    prefix: 'fa'
 	  });
+
+	jetlagfMarker = L.AwesomeMarkers.icon({
+	    icon: 'plane',
+	    markerColor: 'darkblue',
+	    prefix: 'fa'
+	  });
 	
 	otherChannelMarker = L.AwesomeMarkers.icon({
 	    icon: 'asterisk',
@@ -101,6 +107,8 @@ function getIcon(category){
 		return plusMarker;
 	}else if(category == "TechDif"){
 		return techdifMarker;
+	}else if(category == "JetLag"){
+		return jetlagMarker;
 	}else{
 		return defaultMarker;
 	}
