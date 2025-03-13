@@ -77,7 +77,7 @@ function generateIcons(){
 	    prefix: 'fa'
 	  });
 
-	jetlagfMarker = L.AwesomeMarkers.icon({
+	jetlagMarker = L.AwesomeMarkers.icon({
 	    icon: 'plane',
 	    markerColor: 'darkblue',
 	    prefix: 'fa'
