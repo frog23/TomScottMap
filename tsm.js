@@ -57,6 +57,12 @@ function generateIcons(){
 	    markerColor: 'darkred',
 	    prefix: 'fa'
 	  });
+
+	englandMarker = L.AwesomeMarkers.icon({
+	    icon: 'star',
+	    markerColor: 'darkred',
+	    prefix: 'fa'
+	  });
 	
 
 	parkMarker = L.AwesomeMarkers.icon({
@@ -109,6 +115,8 @@ function getIcon(category){
 		return techdifMarker;
 	}else if(category == "JetLag"){
 		return jetlagMarker;
+	}else if(category == "England"){
+		return englandMarker;
 	}else{
 		return defaultMarker;
 	}
